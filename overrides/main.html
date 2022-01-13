@@ -3,9 +3,10 @@
 {% block content %}
 
 {% if page.url_to_pdf %}
-    <a href="{{ page.url_to_pdf }}" title="Site PDF" class="md-content__button md-icon">
+    <a href="{{ page.url_to_pdf }}" title="Descargar PDF" class="md-content__button md-icon">
         {% include ".icons/material/file-pdf-box.svg" %}
     </a>
+
 {% endif %}
 
 {{ super() }}
