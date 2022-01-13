@@ -584,14 +584,14 @@ Estados miembros en materia de compatibilidad electromagnética.
 * 7.1 En la Memoria se incluirán las producciones mensuales máximas teóricas en función de la
   irradiancia, la potencia instalada y el rendimiento de la instalación.
 * 7.2 Los datos de entrada que deberá aportar el instalador son los siguientes:
-* 7.2.1 G dm (0).
+* 7.2.1 G_dm (0).
   Valor medio mensual y anual de la irradiación diaria sobre superficie horizontal, en
   kWh/(m 2 A día), obtenido a partir de alguna de las siguientes fuentes:
-  – Agencia Estatal de Meteorología.
-  – Organismo autonómico oficial.
-  – Otras fuentes de datos de reconocida solvencia, o las expresamente señaladas por el
-  IDAE.
-* 7.2.2 G dm ( " , $ ).
+  * – Agencia Estatal de Meteorología.
+  * – Organismo autonómico oficial.
+  * – Otras fuentes de datos de reconocida solvencia, o las expresamente señaladas por el
+    IDAE.
+* 7.2.2 G_dm (orientacin , inclinacion ).
   Valor medio mensual y anual de la irradiación diaria sobre el plano del generador en
   kWh/(m 2 ·día), obtenido a partir del anterior, y en el que se hayan descontado las pérdidas por
   sombreado en caso de ser éstas superiores a un 10 % anual (ver anexo III). El parámetro "
@@ -610,7 +610,7 @@ Estados miembros en materia de compatibilidad electromagnética.
   * – La eficiencia energética del inversor.
   * – Otros.
 * 7.2.4 La estimación de la energía inyectada se realizará de acuerdo con la siguiente ecuación:
-  ![image-20220113171057490](Pliego%20de%20Condiciones%20T%C3%A9cnicas.assets/image-20220113171057490.png)
+  ![image-20220113171418462](Pliego%20de%20Condiciones%20T%C3%A9cnicas.assets/image-20220113171418462.png)
 * 7.3 Los datos se presentarán en una tabla con los valores medios mensuales y el promedio anual, de
   acuerdo con el siguiente ejemplo:
 
