@@ -507,15 +507,244 @@ Estados miembros en materia de compatibilidad electromagnética.
 
 #### 5.11 Medidas de seguridad
 
-5.11.1 Las centrales fotovoltaicas, independientemente de la tensión a la que estén conectadas a la
-red, estarán equipadas con un sistema de protecciones que garantice su desconexión en caso
-de un fallo en la red o fallos internos en la instalación de la propia central, de manera que no
+* 5.11.1 Las centrales fotovoltaicas, independientemente de la tensión a la que estén conectadas a la
+  red, estarán equipadas con un sistema de protecciones que garantice su desconexión en caso
+  de un fallo en la red o fallos internos en la instalación de la propia central, de manera que noperturben el correcto funcionamiento de las redes a las que estén conectadas, tanto en la
+  explotación normal como durante el incidente.
+* 5.11.2 La central fotovoltaica debe evitar el funcionamiento no intencionado en isla con parte de la
+  red de distribución, en el caso de desconexión de la red general. La protección anti-isla
+  deberá detectar la desconexión de red en un tiempo acorde con los criterios de protección de
+  la red de distribución a la que se conecta, o en el tiempo máximo fijado por la normativa o
+  especificaciones técnicas correspondientes. El sistema utilizado debe funcionar correctamen
+  te en paralelo con otras centrales eléctricas con la misma o distinta tecnología, y alimentando
+  las cargas habituales en la red, tales como motores.
+* 5.11.3 Todas las centrales fotovoltaicas con una potencia mayor de 1 MW estarán dotadas de un
+  sistema de teledesconexión y un sistema de telemedida.
+  La función del sistema de teledesconexión es actuar sobre el elemento de conexión de la
+  central eléctrica con la red de distribución para permitir la desconexión remota de la planta
+  en los casos en que los requisitos de seguridad así lo recomienden. Los sistemas de
+  teledesconexión y telemedida serán compatibles con la red de distribución a la que se conecta
+  la central fotovoltaica, pudiendo utilizarse en baja tensión los sistemas de telegestión
+  incluidos en los equipos de medida previstos por la legislación vigente.
+* 5.11.4 Las centrales fotovoltaicas deberán estar dotadas de los medios necesarios para admitir un
+  reenganche de la red de distribución sin que se produzcan daños. Asimismo, no producirán
+  sobretensiones que puedan causar daños en otros equipos, incluso en el transitorio de paso
+  a isla, con cargas bajas o sin carga. Igualmente, los equipos instalados deberán cumplir los
+  límites de emisión de perturbaciones indicados en las normas nacionales e internacionales
+  de compatibilidad electromagnética.
+
+### 6 Recepción y pruebas
+
+* 6.1 El instalador entregará al usuario un documento-albarán en el que conste el suministro de
+  componentes, materiales y manuales de uso y mantenimiento de la instalación. Este documento
+  será firmado por duplicado por ambas partes, conservando cada una un ejemplar. Los manuales
+  entregados al usuario estarán en alguna de las lenguas oficiales españolas para facilitar su
+  correcta interpretación.
+* 6.2 Antes de la puesta en servicio de todos los elementos principales (módulos, inversores,
+  contadores) éstos deberán haber superado las pruebas de funcionamiento en fábrica, de las que
+  se levantará oportuna acta que se adjuntará con los certificados de calidad.
+* 6.3 Las pruebas a realizar por el instalador, con independencia de lo indicado con anterioridad en
+  este PCT, serán como mínimo las siguientes:
+* 6.3.1 Funcionamiento y puesta en marcha de todos los sistemas.
+  * 6.3.2 Pruebas de arranque y parada en distintos instantes de funcionamiento.
+  * 6.3.3 Pruebas de los elementos y medidas de protección, seguridad y alarma, así como su actuación,
+    con excepción de las pruebas referidas al interruptor automático de la desconexión.
+  * 6.3.4 Determinación de la potencia instalada, de acuerdo con el procedimiento descrito en el anexo I.
 
 
 
 
 
 
+
+* 6.4 Concluidas las pruebas y la puesta en marcha se pasará a la fase de la Recepción Provisional de
+  la Instalación. No obstante, el Acta de Recepción Provisional no se firmará hasta haber
+  comprobado que todos los sistemas y elementos que forman parte del suministro han funcionado
+  correctamente durante un mínimo de 240 horas seguidas, sin interrupciones o paradas causadas
+  por fallos o errores del sistema suministrado, y además se hayan cumplido los siguientes
+  requisitos:
+  * 6.4.1 Entrega de toda la documentación requerida en este PCT, y como mínimo la recogida en la
+    norma UNE-EN 62466: Sistemas fotovoltaicos conectados a red. Requisitos mínimos de
+    documentación, puesta en marcha e inspección de un sistema.
+  * 6.4.2 Retirada de obra de todo el material sobrante.
+  * 6.4.3 Limpieza de las zonas ocupadas, con transporte de todos los desechos a vertedero.
+* 6.5 Durante este período el suministrador será el único responsable de la operación de los sistemas
+  suministrados, si bien deberá adiestrar al personal de operación.
+* 6.6 Todos los elementos suministrados, así como la instalación en su conjunto, estarán protegidos
+  frente a defectos de fabricación, instalación o diseño por una garantía de tres años, salvo para
+  los módulos fotovoltaicos, para los que la garantía mínima será de 10 años contados a partir de
+  la fecha de la firma del acta de recepción provisional.
+* 6.7 No obstante, el instalador quedará obligado a la reparación de los fallos de funcionamiento que
+  se puedan producir si se apreciase que su origen procede de defectos ocultos de diseño,
+  construcción, materiales o montaje, comprometiéndose a subsanarlos sin cargo alguno. En
+  cualquier caso, deberá atenerse a lo establecido en la legislación vigente en cuanto a vicios ocultos.
+
+### 7 Cálculo de la producción anual esperada
+
+* 7.1 En la Memoria se incluirán las producciones mensuales máximas teóricas en función de la
+  irradiancia, la potencia instalada y el rendimiento de la instalación.
+* 7.2 Los datos de entrada que deberá aportar el instalador son los siguientes:
+* 7.2.1 G dm (0).
+  Valor medio mensual y anual de la irradiación diaria sobre superficie horizontal, en
+  kWh/(m 2 A día), obtenido a partir de alguna de las siguientes fuentes:
+  – Agencia Estatal de Meteorología.
+  – Organismo autonómico oficial.
+  – Otras fuentes de datos de reconocida solvencia, o las expresamente señaladas por el
+  IDAE.
+* 7.2.2 G dm ( " , $ ).
+  Valor medio mensual y anual de la irradiación diaria sobre el plano del generador en
+  kWh/(m 2 ·día), obtenido a partir del anterior, y en el que se hayan descontado las pérdidas por
+  sombreado en caso de ser éstas superiores a un 10 % anual (ver anexo III). El parámetro "
+  representa el azimut y $ la inclinación del generador, tal y como se definen en el anexo II.
+
+
+
+
+
+* 7.2.3 Rendimiento energético de la instalación o “performance ratio”, PR.
+  Eficiencia de la instalación en condiciones reales de trabajo, que tiene en cuenta:
+  * – La dependencia de la eficiencia con la temperatura.
+  * – La eficiencia del cableado.
+  * – Las pérdidas por dispersión de parámetros y suciedad.
+  * – Las pérdidas por errores en el seguimiento del punto de máxima potencia.
+  * – La eficiencia energética del inversor.
+  * – Otros.
+* 7.2.4 La estimación de la energía inyectada se realizará de acuerdo con la siguiente ecuación:
+  ![image-20220113171057490](Pliego%20de%20Condiciones%20T%C3%A9cnicas.assets/image-20220113171057490.png)
+* 7.3 Los datos se presentarán en una tabla con los valores medios mensuales y el promedio anual, de
+  acuerdo con el siguiente ejemplo:
+
+![image-20220113171037838](Pliego%20de%20Condiciones%20T%C3%A9cnicas.assets/image-20220113171037838.png)
+
+
+
+
+
+
+
+### 8 Requerimientos técnicos del contrato de mantenimiento
+
+#### 8.1 Generalidades
+
+* 8.1.1 Se realizará un contrato de mantenimiento preventivo y correctivo de al menos tres años.
+* 8.1.2 El contrato de mantenimiento de la instalación incluirá todos los elementos de la misma, con
+  las labores de mantenimiento preventivo aconsejados por los diferentes fabricantes.
+
+#### 8.2 Programa de mantenimiento
+
+* 8.2.1 El objeto de este apartado es definir las condiciones generales mínimas que deben seguirse
+  para el adecuado mantenimiento de las instalaciones de energía solar fotovoltaica conectadas
+  a red.
+
+* 8.2.2 Se definen dos escalones de actuación para englobar todas las operaciones necesarias durante
+  la vida útil de la instalación para asegurar el funcionamiento, aumentar la producción y
+  prolongar la duración de la misma:
+  – Mantenimiento preventivo.
+  – Mantenimiento correctivo.
+
+* 8.2.3 Plan de mantenimiento preventivo: operaciones de inspección visual, verificación de
+  actuaciones y otras, que aplicadas a la instalación deben permitir mantener dentro de límites
+  aceptables las condiciones de funcionamiento, prestaciones, protección y durabilidad de la
+  misma.
+
+* 8.2.4 Plan de mantenimiento correctivo: todas las operaciones de sustitución necesarias para
+  asegurar que el sistema funciona correctamente durante su vida útil. Incluye:
+
+  * – La visita a la instalación en los plazos indicados en el punto 8.3.5.2 y cada vez que el
+    usuario lo requiera por avería grave en la misma.
+  * – El análisis y elaboración del presupuesto de los trabajos y reposiciones necesarias para
+    el correcto funcionamiento de la instalación.
+  * – Los costes económicos del mantenimiento correctivo, con el alcance indicado, forman
+    parte del precio anual del contrato de mantenimiento. Podrán no estar incluidas ni la
+    mano de obra ni las reposiciones de equipos necesarias más allá del período de
+    garantía.
+
+* 8.2.5 El mantenimiento debe realizarse por personal técnico cualificado bajo la responsabilidad de
+  la empresa instaladora.
+
+* 8.2.6 El mantenimiento preventivo de la instalación incluirá, al menos, una visita (anual para el caso
+  de instalaciones de potencia de hasta 100 kWp y semestral para el resto) en la que se realizarán
+  las siguientes actividades:
+
+  * – Comprobación de las protecciones eléctricas.
+  * – Comprobación del estado de los módulos: comprobación de la si
+
+  * – Comprobación del estado del inversor: funcionamiento, lámparas de señalizaciones,
+    alarmas, etc.
+
+  * – Comprobación del estado mecánico de cables y terminales (incluyendo cables de tomas
+    de tierra y reapriete de bornas), pletinas, transformadores, ventiladores/extractores,
+    uniones, reaprietes, limpieza.
+
+* 8.2.7 Realización de un informe técnico de cada una de las visitas, en el que se refleje el estado de
+  las instalaciones y las incidencias acaecidas.
+* 8.2.8 Registro de las operaciones de mantenimiento realizadas en un libro de mantenimiento, en el
+  que constará la identificación del personal de mantenimiento (nombre, titulación y
+  autorización de la empresa).
+
+#### 8.3 Garantías
+
+* 8.3.1 Ámbito general de la garantía
+
+* 8.3.1.1 Sin perjuicio de cualquier posible reclamación a terceros, la instalación será reparada de
+  acuerdo con estas condiciones generales si ha sufrido una avería a causa de un defecto de
+  montaje o de cualquiera de los componentes, siempre que haya sido manipulada correcta
+  mente de acuerdo con lo establecido en el manual de instrucciones.
+
+* 8.3.1.2 La garantía se concede a favor del comprador de la instalación, lo que deberá justificarse
+  debidamente mediante el correspondiente certificado de garantía, con la fecha que se acredite
+  en la certificación de la instalación.
+
+* 8.3.2 Plazos
+
+* 8.3.2.1 El suministrador garantizará la instalación durante un período mínimo de 3 años, para todos
+  los materiales utilizados y el procedimiento empleado en su montaje. Para los módulos
+  fotovoltaicos, la garantía mínima será de 10 años.
+
+* 8.3.2.2 Si hubiera de interrumpirse la explotación del suministro debido a razones de las que es
+  responsable el suministrador, o a reparaciones que el suministrador haya de realizar para
+  cumplir las estipulaciones de la garantía, el plazo se prolongará por la duración total de
+  dichas interrupciones.
+
+* 8.3.3 Condiciones económicas
+
+  * 8.3.3.1 La garantía comprende la reparación o reposición, en su caso, de los componentes y las
+    piezas que pudieran resultar defectuosas, así como la mano de obra empleada en la
+    reparación o reposición durante el plazo de vigencia de la garantía.
+  * 8.3.3.2 Quedan expresamente incluidos todos los demás gastos, tales como tiempos de desplaza
+    miento, medios de transporte, amortización de vehículos y herramientas, disponibilidad de
+    otros medios y eventuales portes de recogida y devolución de los equipos para su reparación
+    en los talleres del fabricante.
+  * 8.3.3.3 Asimismo, se deben incluir la mano de obra y materiales necesarios para efectuar los ajustes
+    y eventuales reglajes del funcionamiento de la instalación.
+
+  * 8.3.3.4 Si en un plazo razonable el suministrador incumple las obligaciones derivadas de la garantía,
+    el comprador de la instalación podrá, previa notificación escrita, fijar una fecha final para que
+    dicho suministrador cumpla con sus obligaciones. Si el suministrador no cumple con sus
+    obligaciones en dicho plazo último, el comprador de la instalación podrá, por cuenta y riesgo
+    del suministrador, realizar por sí mismo las oportunas reparaciones, o contratar para ello a
+    un tercero, sin perjuicio de la reclamación por daños y perjuicios en que hubiere incurrido
+    el suministrador.
+
+* 8.3.4 Anulación de la garantía
+  * 8.3.4.1 La garantía podrá anularse cuando la instalación haya sido reparada, modificada o
+    desmontada, aunque sólo sea en parte, por personas ajenas al suministrador o a los servicios
+    de asistencia técnica de los fabricantes no autorizados expresamente por el suministrador,
+    salvo lo indicado en el punto 8.3.3.4.
+* 8.3.5 Lugar y tiempo de la prestación
+  * 8.3.5.1 Cuando el usuario detecte un defecto de funcionamiento en la instalación lo comunicará
+    fehacientemente al suministrador. Cuando el suministrador considere que es un defecto de
+    fabricación de algún componente, lo comunicará fehacientemente al fabricante.
+  * 8.3.5.2 El suministrador atenderá cualquier incidencia en el plazo máximo de una semana y la
+    resolución de la avería se realizará en un tiempo máximo de 10 días, salvo causas de fuerza
+    mayor debidamente justificadas.
+  * 8.3.5.3 Las averías de las instalaciones se repararán en su lugar de ubicación por el suministrador.
+    Si la avería de algún componente no pudiera ser reparada en el domicilio del usuario, el
+    componente deberá ser enviado al taller oficial designado por el fabricante por cuenta y a
+    cargo del suministrador.
+  * 8.3.5.4 El suministrador realizará las reparaciones o reposiciones de piezas a la mayor brevedad
+    posible una vez recibido el aviso de avería, pero no se responsabilizará de los perjuicios
+    causados por la demora en dichas reparaciones siempre que sea inferior a 10 días naturales.
 
 
 
