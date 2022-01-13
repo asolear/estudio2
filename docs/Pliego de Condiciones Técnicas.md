@@ -1,4 +1,4 @@
-### Pliego de Condiciones Técnicas de Instalaciones Conectadas a Red
+# Pliego de Condiciones Técnicas de Instalaciones Conectadas a Red
 
 #### 1 Objeto
 
@@ -304,23 +304,19 @@ las siguientes normas:
 * – UNE-EN 62108. Módulos y sistemas fotovoltaicos de concentración (CPV). Cualificación
   del diseño y homologación.
 
-  
-
-  Los módulos que se encuentren integrados en la edificación, aparte de que deben cumplir la
-  normativa indicada anteriormente, además deberán cumplir con lo previsto en la Directiva
-  89/106/CEE del Consejo de 21 de diciembre de 1988 relativa a la aproximación de las
-  disposiciones legales, reglamentarias y administrativas de los Estados miembros sobre los
-  productos de construcción.
-
-  Aquellos módulos que no puedan ser ensayados según estas normas citadas, deberán acreditar
-  el cumplimiento de los requisitos mínimos establecidos en las mismas por otros medios, y con
-  carácter previo a su inscripción definitiva en el registro de régimen especial dependiente del
-  órgano competente.
-
-  Será necesario justificar la imposibilidad de ser ensayados, así como la acreditación del
-  cumplimiento de dichos requisitos, lo que deberá ser comunicado por escrito a la Dirección
-  General de Política Energética y Minas, quien resolverá sobre la conformidad o no de la
-  justificación y acreditación presentadas.
+Los módulos que se encuentren integrados en la edificación, aparte de que deben cumplir la
+normativa indicada anteriormente, además deberán cumplir con lo previsto en la Directiva
+89/106/CEE del Consejo de 21 de diciembre de 1988 relativa a la aproximación de las
+disposiciones legales, reglamentarias y administrativas de los Estados miembros sobre los
+productos de construcción.
+Aquellos módulos que no puedan ser ensayados según estas normas citadas, deberán acreditar
+el cumplimiento de los requisitos mínimos establecidos en las mismas por otros medios, y con
+carácter previo a su inscripción definitiva en el registro de régimen especial dependiente del
+órgano competente.
+Será necesario justificar la imposibilidad de ser ensayados, así como la acreditación del
+cumplimiento de dichos requisitos, lo que deberá ser comunicado por escrito a la Dirección
+General de Política Energética y Minas, quien resolverá sobre la conformidad o no de la
+justificación y acreditación presentadas.
 
 * 5.2.2 El módulo fotovoltaico llevará de forma claramente visible e indeleble el modelo y nombre
   o logotipo del fabricante, así como una identificación individual o número de serie trazable a
@@ -748,9 +744,7 @@ Estados miembros en materia de compatibilidad electromagnética.
 
 
 
-REF.: 
-
-- PCT-C-REV - julio 2011 , IDAE
+Ref.:  PCT-C-REV - julio 2011 , IDAE
 
 
 

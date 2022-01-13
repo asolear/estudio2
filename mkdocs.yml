@@ -10,6 +10,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+  custom_dir: docs/overrides
 # plugins:
 #   # - pdf-export # *** ERROR: Failed to load image at 'http://yoursite.com/the.pdf':
 #   # - pdf-export:
@@ -70,14 +71,18 @@ copyright: 'esto esta escrito desde el Copyright 2021 Asolear'
 
 
 plugins:
+  - search
+  - print-site:
+         path_to_pdf: "pdf/document.pdf"
+
   - with-pdf:
       author: Asolear
       copyright: Asolear
-      
       # cover: false
       back_cover: true
       cover_title: Generacion Fotovoltaica
       cover_subtitle: Estudio Tecnico Economico
+      cover_logo: 'assets/logo.png'
       # custom_template_path: TEMPLATES PATH
       
       toc_title: Tabla de contenidos
@@ -97,13 +102,10 @@ plugins:
       #      text: ALTERNATE TEXT
       #    - src: ...
       two_columns_level: 3
-      
       # render_js: true
-      # headless_chrome_path: headless-chromium
-      
+      # headless_chrome_path: /snap/bin/chromium
       # output_path: any-place/document.pdf
       # enabled_if_env: ENABLE_PDF_EXPORT
-      
       debug_html: true
       show_anchors: true
       # verbose: true
