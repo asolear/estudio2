@@ -1,5 +1,6 @@
 # Pliego de Condiciones Técnicas de Instalaciones Conectadas a Red
-
+##
+###
 #### 1 Objeto
 
 - 1.1 Fijar las condiciones técnicas mínimas que deben cumplir las instalaciones solares fotovoltaicas conectadas a red que se realicen en el ámbito de actuación del IDAE (proyectos, líneas de apoyo, etc.). Pretende servir de guía para instaladores y fabricantes de equipos, definiendo las especificaciones mínimas que debe cumplir una instalación para asegurar su calidad, en beneficio del usuario y del propio desarrollo de esta tecnología. 
