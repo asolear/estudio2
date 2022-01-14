@@ -4,3 +4,5 @@
 1.2 Para ello se le pedirá que indique la eficiencia energética esperada para la instalación.
 
 
+Ref.:
+* [IDAE PCT-A-REV - febrero 2009](https://www.idae.es/sites/default/files/documentos_5654_FV_Pliego_aisladas_de_red_09_d5e0a327.pdf)

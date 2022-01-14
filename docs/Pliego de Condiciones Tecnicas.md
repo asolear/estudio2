@@ -22,7 +22,7 @@
     documentación, puesta en marcha e inspección de un sistema.
   * – Resolución de 31 de mayo de 2001 por la que se establecen modelo de contrato tipo y modelo
     de factura para las instalaciones solares fotovoltaicas conectadas a la red de baja tensión.
-  * – Real Decreto 1663/2000, de 29 de septiembre, sobre conexión de instalaciones fotovoltaicas
+  * – Real Decreto [1663/2000](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-17599), de 29 de septiembre, sobre conexión de instalaciones fotovoltaicas
     a la red de baja tensión.
   * – Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de
     transporte, distribución, comercialización, suministro y procedimientos de autorización de
@@ -469,7 +469,7 @@ Estados miembros en materia de compatibilidad electromagnética.
 #### 5.6 Conexión a red
 
 * 5.6.1 Todas las instalaciones de hasta 100 kW cumplirán con lo dispuesto en el Real Decreto
-  1663/2000 (artículos 8 y 9) sobre conexión de instalaciones fotovoltaicas conectadas a la red
+  [1663/2000](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-17599) (artículos 8 y 9) sobre conexión de instalaciones fotovoltaicas conectadas a la red
   de baja tensión.
 
 #### 5.7 Medidas
@@ -479,7 +479,7 @@ Estados miembros en materia de compatibilidad electromagnética.
 
 #### 5.8 Protecciones
 
-* 5.8.1 Todas las instalaciones cumplirán con lo dispuesto en el Real Decreto 1663/2000 (artículo 11)
+* 5.8.1 Todas las instalaciones cumplirán con lo dispuesto en el Real Decreto [1663/2000](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-17599) (artículo 11)
   sobre protecciones en instalaciones fotovoltaicas conectadas a la red de baja tensión.
 * 5.8.2 En conexiones a la red trifásicas las protecciones para la interconexión de máxima y mínima
   frecuencia (51 Hz y 49 Hz respectivamente) y de máxima y mínima tensión (1,1 Um y 0,85 Um
@@ -487,19 +487,19 @@ Estados miembros en materia de compatibilidad electromagnética.
 
 #### 5.9 Puesta a tierra de las instalaciones fotovoltaicas
 
-* 5.9.1 Todas las instalaciones cumplirán con lo dispuesto en el Real Decreto 1663/2000 (artículo 12)
+* 5.9.1 Todas las instalaciones cumplirán con lo dispuesto en el Real Decreto [1663/2000](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-17599) (artículo 12) '...*Las masas de la instalación fotovoltaica estarán conectadas a <u>una tierra independiente</u> de la red del neutro de la empresa distribuidora de  acuerdo con el Reglamento electrotécnico para baja tensión, así como <u>de  las masas del resto del suministro</u>.*.. '
   sobre las condiciones de puesta a tierra en instalaciones fotovoltaicas conectadas a la red de
   baja tensión.
-* 5.9.2 Cuando el aislamiento galvánico entre la red de distribución de baja tensión y el generador
+* 5.9.2 Cuando el [aislamiento galvánico ](https://industria.gob.es/Calidad-Industrial/seguridadindustrial/instalacionesindustriales/baja-tension/notas/nota_interpretacion_separacion_galvanica.pdf) entre la red de distribución de baja tensión y el generador
   fotovoltaico no se realice mediante un transformador de aislamiento, se explicarán en la
   Memoria de Diseño o Proyecto los elementos utilizados para garantizar esta condición.
-* 5.9.3 Todas las masas de la instalación fotovoltaica, tanto de la sección continua como de la alterna,
-  estarán conectadas a una única tierra. Esta tierra será independiente de la del neutro de la
+* 5.9.3 Todas las <u>masas de la instalación</u> fotovoltaica, tanto de la sección continua como de la alterna,
+  estarán conectadas a <u>una única tierra</u>. Esta tierra será independiente de la del neutro de la
   empresa distribuidora, de acuerdo con el Reglamento de Baja Tensión.
 
 #### 5.10 Armónicos y compatibilidad electromagnética
 
-* 5.10.1 Todas las instalaciones cumplirán con lo dispuesto en el Real Decreto 1663/2000 (artículo 13) sobre armónicos y compatibilidad electromagnética en instalaciones fotovoltaicas
+* 5.10.1 Todas las instalaciones cumplirán con lo dispuesto en el Real Decreto [1663/2000](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-17599) (artículo 13) sobre armónicos y compatibilidad electromagnética en instalaciones fotovoltaicas
   conectadas a la red de baja tensión.
 
 #### 5.11 Medidas de seguridad
@@ -745,7 +745,8 @@ Estados miembros en materia de compatibilidad electromagnética.
 
 
 
-Ref.:  PCT-C-REV - julio 2011 , IDAE
+Ref.:  
+* [PCT-C-REV - julio 2011 , IDAE](https://www.idae.es/sites/default/files/documentos_5654_FV_pliego_condiciones_tecnicas_instalaciones_conectadas_a_red_C20_Julio_2011_3498eaaf.pdf)
 
 
 

@@ -4,14 +4,15 @@ mknotebooks
 # mkdocs-macros-plugin # no
 # mkdocs-pdf-export-plugin # ***
 # mkdocs-pdf-with-js-plugin  # no
-# mkdocs-print-site-plugin
+# mkdocs-print-site-plugin # 
 ####
 mkdocs-with-pdf
-mkdocs-video
+# mkdocs-video
 # mkdocs-material-extensions 
 # pymdown-extensions 
 mkdocs-macros-plugin
 mkdocs-material-extensions
 pymdown-extensions 
 # mkdocs-blogging-plugin
-# mkdocs-print-site-plugin
+mkdocs-print-site-plugin
+qrcode

@@ -8,7 +8,7 @@ nav:
   - Diseno del sistema: Diseno del sistema.md
   - Costes de instalacion: Costes de instalacion.md
   - Incentivos: Incentivos.md
-  - Parametros financieros: Parametros financieros.md
+  - Financiacion: Financiacion.md
   - Factura de la luz: Factura de la luz.md
   - Pliego de Condiciones Tecnicas: Pliego de Condiciones Tecnicas.md
 
@@ -47,8 +47,8 @@ extra:
     provider: google
     property: G-BY8HY373BD
   fig:
-    url: https://flaskimg-yzohicfcma-ew.a.run.app/
-    # url: http://192.168.1.113:8080/
+    # url: https://flaskimg-yzohicfcma-ew.a.run.app/
+    url: http://192.168.1.115:5000/
 
 
 
@@ -85,42 +85,42 @@ extra_javascript:
 copyright: 'esto esta escrito desde el Copyright 2021 Asolear'
 
 
-plugins:
-  - search
-  - print-site:
-         path_to_pdf: "pdf/document.pdf"
+# plugins:
+#   - search
+#   - print-site:
+#          path_to_pdf: assets/document.pdf
 
-  - with-pdf:
-      author: Asolear
-      copyright: Asolear
-      # cover: false
-      back_cover: true
-      cover_title: Generacion Fotovoltaica
-      cover_subtitle: Estudio Tecnico Economico
-      cover_logo: 'assets/logo.png'
-      # custom_template_path: TEMPLATES PATH
+#   - with-pdf:
+#       author: Asolear
+#       copyright: Asolear
+#       # cover: false
+#       back_cover: true
+#       cover_title: Generacion Fotovoltaica
+#       cover_subtitle: Estudio Tecnico Economico
+#       cover_logo: 'assets/logo.png'
+#       # custom_template_path: TEMPLATES PATH
       
-      toc_title: Tabla de contenidos
-      heading_shift: false
-      toc_level: 3
-      ordered_chapter_level: 2
-      excludes_children:
-         - 'release-notes/:upgrading'
-         - 'release-notes/:changelog'
+#       toc_title: Tabla de contenidos
+#       heading_shift: false
+#       toc_level: 3
+#       ordered_chapter_level: 2
+#       # excludes_children:
+#       #    - 'release-notes/:upgrading'
+#       #    - 'release-notes/:changelog'
       
-      exclude_pages:
-         - 'bugs/'
-         - 'appendix/contribute/'
-      # convert_iframe:
-      #    - src: IFRAME SRC
-      #      img: POSTER IMAGE URL
-      #      text: ALTERNATE TEXT
-      #    - src: ...
-      two_columns_level: 3
-      # render_js: true
-      # headless_chrome_path: /snap/bin/chromium
-      # output_path: any-place/document.pdf
-      # enabled_if_env: ENABLE_PDF_EXPORT
-      debug_html: true
-      show_anchors: true
-      # verbose: true
+#       # exclude_pages:
+#       #    - 'bugs/'
+#       #    - 'appendix/contribute/'
+#       # convert_iframe:
+#       #    - src: IFRAME SRC
+#       #      img: POSTER IMAGE URL
+#       #      text: ALTERNATE TEXT
+#       #    - src: ...
+#       two_columns_level: 3
+#       # render_js: true
+#       # headless_chrome_path: /snap/bin/chromium
+#       output_path: assets/document.pdf
+#       # enabled_if_env: ENABLE_PDF_EXPORT
+#       # debug_html: true
+#       # show_anchors: true
+#       # verbose: true
