@@ -199,6 +199,12 @@ Donde:
 
 
 
+![image-20220115134605073](Dimensionado%20del%20sistema.assets/image-20220115134605073.png)
+
+
+
+![image-20220115135659927](Dimensionado%20del%20sistema.assets/image-20220115135659927.png)
+
 
 
 ![image-20220114194856028](Dimensionado%20del%20sistema.assets/image-20220114194856028.png)
@@ -217,7 +223,7 @@ Donde:
 
 
 
-
+![image-20220114202428719](Dimensionado%20del%20sistema.assets/image-20220114202428719.png)
 
 
 
