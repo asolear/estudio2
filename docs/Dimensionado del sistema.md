@@ -182,18 +182,14 @@ La autonomía del sistema se calculará mediante la expresión:
 
 $A=\frac{C_{20}PD_{max}}{L_D}\eta_{inv} \eta_b$
 
-
-
 Donde:
 
-
-
-A = Autonomía del sistema en días
-$C_{20}$ = Capacidad del acumulador en Ah (*)
-$PD_{max}$ = Profundidad de descarga máxima
-$\eta_{inv}$= Rendimiento energético del inversor
-$\eta_{rb}$ = Rendimiento energético del acumulador + regulador
-$L_D$ = Consumo diario medio de la carga en Ah
+* A = Autonomía del sistema en días
+* $C_{20}$ = Capacidad del acumulador en Ah (*)
+* $PD_{max}$ = Profundidad de descarga máxima
+* $\eta_{inv}$= Rendimiento energético del inversor
+* $\eta_{rb}$ = Rendimiento energético del acumulador + regulador
+* $L_D$ = Consumo diario medio de la carga en Ah
 
 
 
@@ -205,13 +201,13 @@ $L_D$ = Consumo diario medio de la carga en Ah
 
 
 
-![image-20220114190418659](Dimensionado%20del%20sistema.assets/image-20220114190418659.png)
+![image-20220114194856028](Dimensionado%20del%20sistema.assets/image-20220114194856028.png)
 
 
 
 
 
-
+![image-20220114194908536](Dimensionado%20del%20sistema.assets/image-20220114194908536.png)
 
 
 
