@@ -207,11 +207,11 @@ Donde:
 
 
 
-![image-20220114194856028](Dimensionado%20del%20sistema.assets/image-20220114194856028.png)
 
 
 
 
+![image-20220116021521272](Dimensionado%20del%20sistema.assets/image-20220116021521272.png)
 
 ![image-20220114194908536](Dimensionado%20del%20sistema.assets/image-20220114194908536.png)
 
