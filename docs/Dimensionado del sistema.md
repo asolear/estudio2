@@ -153,7 +153,9 @@ Este parámetro puede obtenerse de la tabla III para el período de diseño eleg
 El dimensionado mínimo del generador, en primera instancia, se realizará de acuerdo con los
 datos anteriores, según la expresión:
 
-$ P_{mp}=\frac{E_D \cdot G_{CEM}}{G_{dm}(\alpha, \beta) \cdot PR}$
+
+
+$P_{mp}=\frac{E_D \cdot G_{CEM}}{G_{dm}(\alpha, \beta) \cdot PR}$
 
 
 
