@@ -197,15 +197,21 @@ Donde:
 
 ## Cálculo
 
+### Potencia Pico del Generador
+
 ![image-20220118012834130](Dimensionado%20del%20sistema.assets/image-20220118012834130.png)
 
-
+### Optimizacion del VAN y Payback
 
 Se buscan los valores optimos para el VAN y el Pyback en el entorno de las Potencia pico del generador obtenida
 
 
 
 ![image-20220118013316814](Dimensionado%20del%20sistema.assets/image-20220118013316814.png)
+
+### Parametros financieros
+
+
 
 ![image-20220118013346539](Dimensionado%20del%20sistema.assets/image-20220118013346539.png)
 
