@@ -124,16 +124,16 @@ $FI=1-[1.2\cdot10^{-4}(\beta-\beta_{opt})^2] \rightarrow \beta\leq15^o$
 
 Deberán presentarse los siguientes datos:
 
-#### $G_{dm}(0)$
+* $G_{dm}(0)$
 
 Obtenida a partir de alguna de las siguientes fuentes:
 
-* – Instituto Nacional de Meteorología
-* – Organismo autonómico oficial
+1. – Instituto Nacional de Meteorología
+2. – Organismo autonómico oficial
 
 
 
-#### $G_{dm}(\alpha,\beta)$
+* $G_{dm}(\alpha,\beta)$
 
 Calculado a partir de la expresión:
 
@@ -197,6 +197,20 @@ Donde:
 
 ## Cálculo
 
+![image-20220118012834130](Dimensionado%20del%20sistema.assets/image-20220118012834130.png)
+
+
+
+Se buscan los valores optimos para el VAN y el Pyback en el entorno de las Potencia pico del generador obtenida
+
+
+
+![image-20220118013316814](Dimensionado%20del%20sistema.assets/image-20220118013316814.png)
+
+![image-20220118013346539](Dimensionado%20del%20sistema.assets/image-20220118013346539.png)
+
+
+
 
 
 ![image-20220115134605073](Dimensionado%20del%20sistema.assets/image-20220115134605073.png)
@@ -211,7 +225,7 @@ Donde:
 
 
 
-![image-20220116021521272](Dimensionado%20del%20sistema.assets/image-20220116021521272.png)
+
 
 ![image-20220114194908536](Dimensionado%20del%20sistema.assets/image-20220114194908536.png)
 
