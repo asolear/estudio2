@@ -1,7 +1,8 @@
 site_name: Estudio FV Residencial
 site_url: https://ayudas.solar
 nav:
-  - Resumen: index.md
+  - Localizacion: index.md
+  - Resumen: Resumen.md
   - Consumo y recursos: Consumo y recursos.md
   - Dimensionado del sistema: Dimensionado del sistema.md
   - Costes de instalacion: Costes de instalacion.md

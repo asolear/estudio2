@@ -1,0 +1,1 @@
+![image-20220119144212400](Resumen.assets/image-20220119144212400.png)
